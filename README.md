@@ -16,9 +16,6 @@
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Alen&layout=compact&langs_count=7&theme=dracula"/>
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Alen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   </div>
-  
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erick-Alen&theme=dark&background=000000)](https://git.io/streak-stats)
-  
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
