@@ -2,10 +2,8 @@
     <h1>Hello, welcome to my github!</h1>
     <br/>
     <h3>I'm Erick, a full-stack developer. I like to explore technologies that involves AI with Web and Mobile Development.</h3>
-    <div align="start">
-        
+    <div align="center">
       <img style={{align: "center"}} src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif"  width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen/>
-      
     </div>
   
   <div>
