@@ -1,4 +1,3 @@
-<main align="start">
     <h1>
         Hello, welcome to my github!
     </h1>
@@ -16,5 +15,4 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Alen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </div>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1&theme=dark)]
-<main>
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Erick-Alen&theme=highcontrast)](https://git.io/streak-stats)
