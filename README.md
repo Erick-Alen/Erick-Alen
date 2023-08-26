@@ -1,6 +1,8 @@
 <div align="start">
   <div>
     <h1>Hello Everyone</h1>
+  </div>
+  <div>
     <br/>
     <h3>I'm Erick, a full-stack developer. I like to explore technologies that involves AI with Web and Mobile Development.</h3>
   </div>
