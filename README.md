@@ -1,5 +1,7 @@
 <main align="start">
-    Hello, welcome to my github!
+    <h1>
+        Hello, welcome to my github!
+    </h1>
     <br/>
     I'm Erick, a full-stack developer. I like to explore technologies that involves AI with Web and Mobile Development.
     <div align="center">
