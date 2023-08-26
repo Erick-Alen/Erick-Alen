@@ -5,12 +5,10 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
+<br/>
 <div align="center">
-
-- 🔭 I’m currently working on enhancing my skills in machine learning and web development.
-- 👯 I’m looking to collaborate on open-source projects related to AI and web development.
-- 💬 Ask me about JavaScript, Python, React, and Flask.
-- 📫 How to reach me: [erick@example.com](mailto:erick@example.com)
+🔭 I’m currently working on enhancing my skills in machine learning and web development.
+📫 How to reach me: [erick@example.com](mailto:erick@example.com)
 
 ### Technologies and Tools I Use
 
