@@ -5,6 +5,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
+<div align: "center">
 
 - 🔭 I’m currently working on enhancing my skills in machine learning and web development.
 - 👯 I’m looking to collaborate on open-source projects related to AI and web development.
@@ -20,7 +21,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-
+</div>
 <div align="center">
   <a href="https://github.com/Erick-Alen">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Alen&layout=compact&langs_count=7&theme=dracula"/>
