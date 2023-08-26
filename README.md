@@ -18,3 +18,7 @@ I'm Erick, a full-stack developer. I like to explore technologies that involve A
     <img src="https://streak-stats.demolab.com/?user=Erick-Alen&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
+
+<div align="center">
+  <img src="https://github.com/Erick-Alen/Erick-Alen/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</div>
