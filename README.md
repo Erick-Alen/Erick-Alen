@@ -16,4 +16,4 @@
         <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Alen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
       </div>
 <main>
-        [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erick-Alen&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Erick-Alen)](https://git.io/streak-stats)
