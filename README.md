@@ -9,10 +9,11 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <br/>
 <div align="center">
 
-  <p>
-    🔭 I’m currently working on enhancing my skills in machine learning and web development.
-    <br>📫 How to reach me: <a href="mailto:erick@example.com">erick@example.com</a>
-  </p>
+<p>
+  🔭 I’m currently working on enhancing my skills in machine learning and web development.
+  <br>📫 How to reach me: <a href="mailto:erick@example.com">erick@example.com</a>
+</p>
+  
 ### Technologies and Tools I Use
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-ffb300?style=flat-square&logo=javascript&logoColor=white)
