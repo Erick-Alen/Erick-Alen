@@ -12,6 +12,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <p>
   🔭 I’m currently working on enhancing my skills in machine learning and web development.
   <br>📫 How to reach me: <a href="mailto:erick.alen@live.com">erick.alen@live.com</a>
+  <br>My favorites hobbies are to play football, videogames and do gym workouts
 </p>
   
 ### Technologies and Tools I Use
