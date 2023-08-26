@@ -17,4 +17,4 @@
       </div>
 <main>
         [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Erick-Alen&theme=dark&background=000000)](https://git.io/streak-stats)
-        ![Snake animation](https://github.com/Erick-Alen/Erick-Alen/blob/output/github-contribution-grid-snake.svg)
+
