@@ -5,7 +5,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <div align="center">
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
-<div align: "center">
+<div align="center">
 
 - 🔭 I’m currently working on enhancing my skills in machine learning and web development.
 - 👯 I’m looking to collaborate on open-source projects related to AI and web development.
