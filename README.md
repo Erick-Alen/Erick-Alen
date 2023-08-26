@@ -8,8 +8,8 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <br/>
 <br/>
 <div align="center">
-🔭 I’m currently working on enhancing my skills in machine learning and web development.
-📫 How to reach me: [erick@example.com](mailto:erick@example.com)
+- 🔭 I’m currently working on enhancing my skills in machine learning and web development.
+- 📫 How to reach me: [erick@example.com](mailto:erick@example.com)
 
 ### Technologies and Tools I Use
 
