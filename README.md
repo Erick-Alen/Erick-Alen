@@ -11,7 +11,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 
 <p>
   🔭 I’m currently working on enhancing my skills in machine learning and web development.
-  <br>📫 How to reach me: <a href="mailto:erick@example.com">erick@example.com</a>
+  <br>📫 How to reach me: <a href="mailto:erick.alen@live.com">erick.alen@live.com</a>
 </p>
   
 ### Technologies and Tools I Use
