@@ -6,6 +6,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
   <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" width="480" height="257" frameBorder="0" class="giphy-embed" allowFullScreen/>
 </div>
 <br/>
+<br/>
 <div align="center">
 🔭 I’m currently working on enhancing my skills in machine learning and web development.
 📫 How to reach me: [erick@example.com](mailto:erick@example.com)
