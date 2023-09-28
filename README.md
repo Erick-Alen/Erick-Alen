@@ -34,8 +34,4 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
   </a>
 </div>
 
-<div align="center">
-    <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=Erick-Alen&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
-
  You can find me on [LinkedIn](https://www.linkedin.com/in/erick-alen/) as well, it's great to have you here!
