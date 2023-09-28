@@ -10,8 +10,10 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 
 <p>
   🔭 I’m currently working on enhancing my skills in machine learning and web development.
-  <br>📫 How to reach me: <a href="mailto:erick.alen@live.com">erick.alen@live.com</a>
-  <br>My favorites hobbies are to play football, videogames and do gym workouts
+  <br><strong>📫 How to reach me:</strong><br/>
+    E-mail: <a href="mailto:erick.alen@live.com">erick.alen@live.com</a><br/>
+    LinkedIn: <a href="https://www.linkedin.com/in/erick-alen/">erick-alen</a><br/>
+  <br><strong>My favorites hobbies are to play football, videogames and do gym workouts</strong>
 </p>
   
 ### Technologies and Tools I Use
@@ -34,4 +36,4 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
   </a>
 </div>
 
- You can find me on [LinkedIn](https://www.linkedin.com/in/erick-alen/) as well, it's great to have you here!
+
