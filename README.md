@@ -8,13 +8,11 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
 <br/>
 <br/>
 
-<p>
-  🔭 I’m currently working on enhancing my skills in machine learning and web development.
-  <br><strong>📫 How to reach me:</strong><br/>
-    E-mail: <a href="mailto:erick.alen@live.com">erick.alen@live.com</a><br/>
-    LinkedIn: <a href="https://www.linkedin.com/in/erick-alen/">erick-alen</a><br/>
-  <br><strong>My favorites hobbies are to play football, videogames and do gym workouts</strong>
-</p>
+<h4>
+    🔭 I’m currently working on enhancing my skills in machine learning and web development.
+    <br/>
+    <br><strong>My favorites hobbies are to play football (no, it isn't soccer 🥴), videogames and do gym workouts</strong>
+</h4>
   
 ### Technologies and Tools I Use
 <div align="center">
@@ -40,5 +38,8 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
     <img src="https://streak-stats.demolab.com/?user=Erick-Alen&theme=highcontrast" alt="GitHub Streak" />
   </a>
 </div>
+
+  <br><strong>📫 How to reach me:</strong><br/>
+    <a href="https://www.linkedin.com/in/erick-alen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
 
 
