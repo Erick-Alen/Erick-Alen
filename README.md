@@ -39,7 +39,7 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
   </a>
 </div>
 
-  <br><strong>📫 How to reach me:</strong><br/>
-    <a href="https://www.linkedin.com/in/erick-alen/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
+  <h3>📫 How to reach me:</h3>
+  <a href="https://www.linkedin.com/in/erick-alen/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Erick Alen | LinkedIn" width="21px"/></a>
 
 
