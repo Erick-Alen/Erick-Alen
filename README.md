@@ -34,11 +34,10 @@ I'm a passionate full-stack developer with a strong interest in AI and its integ
   <a href="https://github.com/Erick-Alen">
     <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Erick-Alen&layout=compact&langs_count=7&theme=dracula"/>
   </a>
-  <a href="https://streak-stats.demolab.com/?user=Erick-Alen&theme=highcontrast">
-    <img src="https://streak-stats.demolab.com/?user=Erick-Alen&theme=highcontrast" alt="GitHub Streak" />
+  <a href="https://github-readme-stats.vercel.app/api?username=erick-alen&show_icons=true&theme=dark)">
+    <img src="https://github-readme-stats.vercel.app/api?username=erick-alen&show_icons=true&theme=dark)" alt="GitHub Streak" />
   </a>
 </div>
-
   <h3>📫 How to reach me:</h3>
   <a href="https://www.linkedin.com/in/erick-alen/"><img align="center" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Erick Alen | LinkedIn" width="21px"/></a>
 
