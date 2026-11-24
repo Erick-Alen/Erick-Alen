@@ -41,7 +41,7 @@ Built during Rocketseat's NLW Unite, this API creates events and manages attende
 
 ### 👥 [My Contacts](https://github.com/Erick-Alen/my-contacts) — A searchable personal address book
 
-A JStack course project with a React interface for adding, editing, searching, sorting, and deleting contacts. An Express API stores contacts and categories in PostgreSQL; the interface handles loading, empty, and error states. The source is JavaScript, despite the current project README mentioning TypeScript.
+A JStack course project with a React interface for adding, editing, searching, sorting, and deleting contacts. An Express API stores contacts and categories in PostgreSQL; the interface handles loading, empty, and error states.
 
 `React · JavaScript · Express · PostgreSQL`
 
