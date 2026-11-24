@@ -7,6 +7,10 @@ I turn complex domain rules into tools people can use. My work spans React and N
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0B7285?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-alen/)
 
+<p align="center">
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="" width="360">
+</p>
+
 ## 🔭 What I work on
 
 - **Product engineering:** interfaces, APIs, and the rules that connect them.
@@ -62,6 +66,23 @@ A JStack course project for tracking bank accounts, income, expenses, and transa
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0B7285?style=flat&logo=postgresql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0B7285?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-0B7285?style=flat&logo=kubernetes&logoColor=white)
+
+## 📊 GitHub activity
+
+These cards summarize public GitHub activity and languages. The projects above give context to the work behind them.
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;theme=default">
+    <img alt="GitHub activity statistics for Erick Alen" src="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true" height="170">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Erick-Alen&amp;layout=compact&amp;langs_count=7&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Erick-Alen&amp;layout=compact&amp;langs_count=7&amp;theme=default">
+    <img alt="Languages represented in Erick Alen's public repositories" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Erick-Alen&amp;layout=compact&amp;langs_count=7" height="170">
+  </picture>
+</p>
 
 ## ⚽ Beyond code
 
