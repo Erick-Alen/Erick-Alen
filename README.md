@@ -8,6 +8,7 @@ I build web applications and data integrations for industrial and healthcare tea
 
 - **[OpenWhispr contribution](https://github.com/OpenWhispr/openwhispr/pull/3330)** — proposed and tested clearer feedback when a local LLM falls back from Vulkan/GPU to CPU. The pull request shows the change and its review history.
 - **[Fincheck](https://github.com/Erick-Alen/Fincheck)** — a personal finance app for tracking accounts and transactions, built as a JStack course project with React and TypeScript.
+- **[My Contacts](https://github.com/Erick-Alen/my-contacts)** — a contact manager built as a JStack course project with React, Express, and PostgreSQL.
 - **[BookStore Minimal API](https://github.com/Erick-Alen/minimalApiCSharp)** — an educational C# and ASP.NET Core book API with integration tests, architecture decision records, and a guided walkthrough.
 
 ## Tools I work with
