@@ -8,7 +8,7 @@ I turn complex domain rules into tools people can use. My work spans React and N
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0B7285?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-alen/)
 
 <p align="center">
-  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="" width="360">
+  <img src="https://media.giphy.com/media/MC6eSuC3yypCU/giphy.gif" alt="Animated green Matrix-style digital face" width="360">
 </p>
 
 ## 🔭 What I work on
@@ -69,13 +69,13 @@ A JStack course project for tracking bank accounts, income, expenses, and transa
 
 ## 📊 GitHub activity
 
-These cards summarize public GitHub activity and languages. The projects above give context to the work behind them.
+These cards summarize public GitHub activity and repository languages. They are not a measure of professional experience or proficiency.
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;theme=dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;theme=default">
-    <img alt="GitHub activity statistics for Erick Alen" src="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true" height="170">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;hide_rank=true&amp;theme=dark">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;hide_rank=true&amp;theme=default">
+    <img alt="GitHub activity statistics for Erick Alen" src="https://github-stats-extended.vercel.app/api?username=Erick-Alen&amp;show_icons=true&amp;hide_rank=true" height="170">
   </picture>
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-stats-extended.vercel.app/api/top-langs/?username=Erick-Alen&amp;layout=compact&amp;langs_count=7&amp;theme=dark">
